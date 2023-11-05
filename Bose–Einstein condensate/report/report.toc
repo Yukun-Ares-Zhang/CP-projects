@@ -1,0 +1,11 @@
+\contentsline {section}{\numberline {1}第一问}{2}{}%
+\contentsline {section}{\numberline {2}第二问}{2}{}%
+\contentsline {section}{\numberline {3}第三-五问解题思路}{2}{}%
+\contentsline {subsection}{\numberline {3.1}SCF方法}{2}{}%
+\contentsline {subsection}{\numberline {3.2}收敛条件}{3}{}%
+\contentsline {subsection}{\numberline {3.3}有限差分离散化微分方程}{3}{}%
+\contentsline {subsection}{\numberline {3.4}带位移的反幂法求解矩阵本征值和本征向量}{3}{}%
+\contentsline {section}{\numberline {4}第三问解答与结果展示}{4}{}%
+\contentsline {section}{\numberline {5}第四问解答与结果展示}{5}{}%
+\contentsline {section}{\numberline {6}第五问解答与结果展示}{9}{}%
+\contentsline {section}{\numberline {7}思考题}{11}{}%

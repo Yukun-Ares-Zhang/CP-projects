@@ -1,0 +1,20 @@
+\contentsline {section}{\numberline {1}解题思路}{2}{}%
+\contentsline {subsection}{\numberline {1.1}无量纲化}{2}{}%
+\contentsline {subsection}{\numberline {1.2}简化条件}{2}{}%
+\contentsline {subsection}{\numberline {1.3}方形网格离散化}{3}{}%
+\contentsline {subsubsection}{\numberline {1.3.1}内点}{4}{}%
+\contentsline {subsubsection}{\numberline {1.3.2}边界点}{4}{}%
+\contentsline {paragraph}{\numberline {1.3.2.1}无源}{4}{}%
+\contentsline {paragraph}{\numberline {1.3.2.2}有源}{5}{}%
+\contentsline {subsection}{\numberline {1.4}SOR法/Gauss-Seidel法求解线性方程组}{6}{}%
+\contentsline {subsubsection}{\numberline {1.4.1}解决 \textbf {问题1}的办法}{6}{}%
+\contentsline {subsubsection}{\numberline {1.4.2}解决 \textbf {问题2}的办法}{6}{}%
+\contentsline {subsection}{\numberline {1.5}遍历格点并寄存位置}{8}{}%
+\contentsline {subsubsection}{\numberline {1.5.1}第一问方形导体}{9}{}%
+\contentsline {subsubsection}{\numberline {1.5.2}具有中心对称和轴对称的曲线边界}{9}{}%
+\contentsline {section}{\numberline {2}源代码}{11}{}%
+\contentsline {section}{\numberline {3}结果展示}{12}{}%
+\contentsline {subsection}{\numberline {3.1}第一问}{12}{}%
+\contentsline {subsection}{\numberline {3.2}第二问}{13}{}%
+\contentsline {subsection}{\numberline {3.3}第三问}{13}{}%
+\contentsline {subsection}{\numberline {3.4}第四问}{14}{}%

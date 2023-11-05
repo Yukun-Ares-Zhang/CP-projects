@@ -1,0 +1,12 @@
+\contentsline {section}{\numberline {1}第一问}{2}{}%
+\contentsline {section}{\numberline {2}第2-5问解题思路}{2}{}%
+\contentsline {subsection}{\numberline {2.1}描述初始光线}{2}{}%
+\contentsline {subsection}{\numberline {2.2}光线的传播和演化}{4}{}%
+\contentsline {subsection}{\numberline {2.3}抽样方法}{6}{}%
+\contentsline {subsection}{\numberline {2.4}一些几何运算}{6}{}%
+\contentsline {subsubsection}{\numberline {2.4.1}计算反射体参数}{6}{}%
+\contentsline {subsubsection}{\numberline {2.4.2}反射后的方向向量}{7}{}%
+\contentsline {section}{\numberline {3}代码实现导引和结果展示}{7}{}%
+\contentsline {subsection}{\numberline {3.1}第二问}{7}{}%
+\contentsline {subsection}{\numberline {3.2}第3-5问}{10}{}%
+\contentsline {section}{\numberline {4}进一步验证———重复实验}{11}{}%
